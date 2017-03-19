@@ -1,10 +1,18 @@
+numix-icon-theme-circle (1:16-11-16-0utopia1) unstable; urgency=medium
+
+  * New upstream release.
+  * Fix typo in last release's changelog ("Switch to non-native packaging",
+    not "Switch to native packaging")
+
+ -- James Lu <bitflip3@gmail.com>  Sun, 19 Mar 2017 16:36:32 -0700
+
 numix-icon-theme-circle (1:16-09-07-0utopia1) unstable; urgency=medium
 
   * New upstream release.
   * debian/ folder updates:
      - Standards version -> 3.9.8 (no changes needed).
      - Update copyright years and my email.
-     - Switch to native packaging.
+     - Switch to non-native packaging.
      - Add a watch file.
      - Fix README.md path.
 
