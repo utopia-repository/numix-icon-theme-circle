@@ -1,4 +1,10 @@
-numix-icon-theme-circle (1:16-11-16-0utopia1) unstable; urgency=medium
+numix-icon-theme-circle (1:17-04-05-0utopia1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- James Lu <bitflip3@gmail.com>  Sat, 22 Apr 2017 22:03:48 -0700
+
+numix-icon-theme-circle (1:16-11-23-0utopia1) unstable; urgency=medium
 
   * New upstream release.
   * Fix typo in last release's changelog ("Switch to non-native packaging",
