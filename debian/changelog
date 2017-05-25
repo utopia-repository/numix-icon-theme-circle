@@ -1,5 +1,5 @@
 numix-icon-theme-circle (17-04-05-1) unstable; urgency=medium
 
-  * Initial Debian release.
+  * Initial Debian release. (Closes: #863383)
 
  -- James Lu <bitflip3@gmail.com>  Thu, 25 May 2017 16:14:27 -0700
