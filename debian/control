@@ -1,14 +1,19 @@
 Source: numix-icon-theme-circle
-Section: gnome
+Section: x11
 Priority: optional
-Maintainer: James Lu <bitflip3@gmail.com>
+Maintainer: MATE Packaging Team <pkg-mate-team@lists.alioth.debian.org>
+Uploader: James Lu <bitflip3@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
-Homepage: https://github.com/numixproject/numix-icon-theme-circle
+Homepage: https://numixproject.org/
+Vcs-Browser: https://anonscm.debian.org/git/pkg-mate/numix-icon-theme-circle.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-mate/numix-icon-theme-circle.git
 
 Package: numix-icon-theme-circle
 Architecture: all
 Depends: ${misc:Depends}, numix-icon-theme
 Description: Circle icon theme from the Numix project
  Numix Circle is an icon theme using simple symbols and vivid background for a
- fresh, swishy, and modern look.
+ fresh, swishy, and modern look. It is developed by the Numix project and
+ serves as a companion to the base Numix icon theme (numix-icon-theme).
+
