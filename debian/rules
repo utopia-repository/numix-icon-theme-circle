@@ -2,3 +2,8 @@
 include /usr/share/dpkg/default.mk
 %:
 	dh $@
+
+override_dh_fixperms:
+	dh_fixperms
+	# Remove extraneous executable bit on some icons
+	chmod -x debian/numix-icon-theme-circle/usr/share/icons/Numix-Circle/48/apps/*.svg
