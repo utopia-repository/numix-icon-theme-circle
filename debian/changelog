@@ -1,4 +1,10 @@
-numix-icon-theme-circle (17-04-05-1) unstable; urgency=medium
+numix-icon-theme-circle (17-08-03-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- James Lu <bitflip3@gmail.com>  Sun, 13 Aug 2017 10:11:04 -0700
+
+numix-icon-theme-circle (17-04-05-1) UNRELEASED; urgency=medium
 
   * Initial Debian release. (Closes: #863383)
 
