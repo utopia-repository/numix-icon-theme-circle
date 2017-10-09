@@ -3,6 +3,8 @@ numix-icon-theme-circle (1:17-09-13-0utopia1) unstable; urgency=medium
   * New upstream release.
   * Bump standards version to 4.1.1; no changes needed.
   * Add Vcs-* URLs.
+  * Add override_dh_fixperms rule to remove extraneous executable bit from
+    .svg files.
 
  -- James Lu <bitflip3@gmail.com>  Sun, 08 Oct 2017 17:08:50 -0700
 
