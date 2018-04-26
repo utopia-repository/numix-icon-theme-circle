@@ -1,5 +1,5 @@
-numix-icon-theme-circle (18-04-04-1) UNRELEASED; urgency=medium
+numix-icon-theme-circle (18-04-04-1) unstable; urgency=medium
 
   * Initial Debian release. (Closes: #863383)
 
- -- James Lu <james@overdrivenetworks.com>  Mon, 26 Feb 2018 18:05:33 -0800
+ -- James Lu <james@overdrivenetworks.com>  Thu, 26 Apr 2018 00:38:36 -0700
