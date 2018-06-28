@@ -1,0 +1,8 @@
+# Force a downgrade from the Utopia Repository version (epoch 1)
+Package: numix-icon-theme-circle
+Pin: version /1\:.*utopia.*/
+Pin-Priority: -1
+
+Package: numix-icon-theme-circle
+Pin: version /1.-.*/
+Pin-Priority: 1001

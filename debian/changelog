@@ -1,3 +1,10 @@
+numix-icon-theme-circle (1:18-02-16-0utopia1+migrate1) unstable; urgency=medium
+
+  * Install a pin file to /etc/apt/preferences.d to force a migration away
+    from the Utopia Repository package version.
+
+ -- James Lu <james@overdrivenetworks.com>  Thu, 28 Jun 2018 11:49:50 -0700
+
 numix-icon-theme-circle (1:18-02-16-0utopia1) unstable; urgency=low
 
   * New upstream release.
